@@ -1,0 +1,141 @@
+{
+  "Electric Charges and Fields": [
+    "Introduction",
+    "Electric charge",
+    "Coulomb’s law",
+    "Electric field",
+    "Conductors and insulators",
+    "Electric field due to continuous charge distribution",
+    "Motion of a charged particle in a uniform electric field",
+    "Electric field lines",
+    "Electric flux",
+    "Gauss’s law",
+    "Applications of Gauss’s law",
+    "Electric dipole",
+    "Dipole in uniform and non-uniform electric fields"
+  ],
+  "Electric Potential and Capacitance": [
+    "Electrostatic potential",
+    "Potential difference",
+    "Relation between electric field and potential",
+    "Equipotential surfaces",
+    "Electrostatic potential energy",
+    "Potential due to electric dipole",
+    "Electrostatics of conductors",
+    "Properties of conductors in electrostatic equilibrium",
+    "Applications of electrostatics",
+    "Capacitance",
+    "Capacitors and capacitance",
+    "Combination of capacitors",
+    "Dielectrics and polarization",
+    "Capacitance of conductors",
+    "Charging and discharging of capacitors",
+    "Effect of dielectric insertion",
+    "Redistribution of charge"
+  ],
+  "Current Electricity": [
+    "Electric current",
+    "Current in conductors",
+    "Kirchhoff’s laws",
+    "Combination of resistances",
+    "Wheatstone bridge",
+    "Symmetric circuits",
+    "Heating effect of current",
+    "Cells and combination of cells",
+    "Electrical measuring instruments"
+  ],
+  "Moving Charges and Magnetism": [
+    "Oersted’s experiment",
+    "Biot–Savart law",
+    "Magnetic field due to current carrying conductors",
+    "Ampere’s circuital law and applications",
+    "Force on a moving charge in magnetic field",
+    "Lorentz force",
+    "Motion of charged particle in electric and magnetic fields",
+    "Magnetic force on a current carrying conductor",
+    "Torque on a current carrying loop",
+    "Gyromagnetic ratio"
+  ],
+  "Magnetism and Matter": [
+    "Bar magnet",
+    "Magnetic properties of materials",
+    "Oscillation magnetometer",
+    "Classification of magnetic materials",
+    "Ferromagnetism",
+    "Hysteresis"
+  ],
+  "Electromagnetic Induction": [
+    "Magnetic flux",
+    "Lenz’s law",
+    "Faraday’s laws of electromagnetic induction",
+    "Induced EMF",
+    "Self inductance",
+    "Mutual inductance",
+    "Inductors in electrical circuits",
+    "Induced electric field"
+  ],
+  "Alternating Current": [
+    "Introduction to alternating current",
+    "Average and RMS values",
+    "AC circuits",
+    "Power and power factor",
+    "Choke coil",
+    "Series LCR circuit",
+    "Resonance",
+    "LC oscillations",
+    "Transformer"
+  ],
+  "Electromagnetic Waves": ["Characteristics of electromagnetic waves"],
+  "Ray Optics and Optical Instruments": [
+    "Plane mirrors",
+    "Reflection from curved surfaces",
+    "Refraction of light",
+    "Prism",
+    "Total internal reflection",
+    "Refraction from spherical surfaces",
+    "Thin lenses",
+    "Optical instruments"
+  ],
+  "Wave Optics": [
+    "Huygens’ principle",
+    "Interference of light",
+    "Young’s double slit experiment",
+    "Fringe width and visibility",
+    "Bichromatic interference",
+    "Optical path difference",
+    "Fresnel biprism",
+    "Thin film interference",
+    "Diffraction",
+    "Resolving power",
+    "Polarization",
+    "Brewster’s law",
+    "Scattering of light",
+    "Doppler effect of light"
+  ],
+  "Dual Nature of Radiation and Matter": [
+    "Dual nature of matter and radiation",
+    "Photoelectric effect"
+  ],
+  "Atoms": [
+    "Atomic models",
+    "Bohr’s model",
+    "Atomic spectra",
+    "Hydrogen spectrum",
+    "X-rays",
+    "Atomic collisions"
+  ],
+  "Nuclei": [
+    "Introduction to nucleus",
+    "Radioactivity",
+    "Radioactive decay",
+    "Parallel and series decay"
+  ],
+  "Semiconductor Electronics": [
+    "Introduction to semiconductors",
+    "Intrinsic and extrinsic semiconductors",
+    "P–N junction diode",
+    "Applications of diode",
+    "Transistors",
+    "Logic gates"
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "Units and Dimensions": [
+    "Physical quantities",
+    "Units",
+    "System of units",
+    "Dimensions",
+    "Dimensional formula",
+    "Dimensional analysis",
+    "Rules of dimensional analysis",
+    "Applications of dimensional analysis",
+    "Limitations of dimensional analysis",
+    "Measurement of length"
+  ],
+  "Mathematical Tools": [
+    "Basic trigonometry",
+    "Quadratic equations",
+    "Binomial approximation",
+    "Logarithmic and exponential functions",
+    "Arithmetic progression",
+    "Geometric progression",
+    "Vectors",
+    "Representation of vectors",
+    "Types of vectors",
+    "Equality of vectors",
+    "Parallel and anti-parallel vectors",
+    "Vector resolution",
+    "Addition of vectors (triangle law, parallelogram law, analytical method)",
+    "Dot product of vectors",
+    "Angle between vectors"
+  ],
+  "Motion in a Straight Line": [
+    "Motion parameters",
+    "Average speed",
+    "Average velocity",
+    "Acceleration",
+    "Uniformly accelerated motion",
+    "Motion under gravity",
+    "Practice problems"
+  ],
+  "Motion in a Plane": [
+    "General motion in two dimensions",
+    "Projectile motion",
+    "Equation of trajectory",
+    "Projectile motion on inclined plane",
+    "Relative motion in one dimension",
+    "Relative motion in two dimensions",
+    "Relative motion between projectiles",
+    "Condition of collision",
+    "Minimum distance between projectiles"
+  ],
+  "Newton’s Laws of Motion": [
+    "Force",
+    "Types of forces",
+    "Newton’s laws of motion",
+    "Free body diagrams",
+    "Equilibrium",
+    "Pulley problems",
+    "Constraints",
+    "Springs",
+    "Combination of springs",
+    "Cutting of springs and strings"
+  ],
+  "Circular Motion": [
+    "Axial vectors",
+    "Kinematics of circular motion",
+    "Circular dynamics",
+    "Centripetal force",
+    "Centrifugal force",
+    "Horizontal circular motion",
+    "Conical pendulum",
+    "Centripetal acceleration"
+  ],
+  "Work, Power and Energy": [
+    "Work",
+    "Work done by different forces",
+    "Work–energy theorem",
+    "Kinetic energy",
+    "Relation between kinetic energy and momentum",
+    "Conservative forces",
+    "Non-conservative forces"
+  ],
+  "Motion of System of Particles and Centre of Mass": [
+    "Concept of centre of mass",
+    "Centre of mass of discrete mass system",
+    "Centre of mass of continuous bodies",
+    "Practice problems on centre of mass",
+    "Conservation of momentum",
+    "Motion of centre of mass",
+    "Impulse",
+    "Collision",
+    "One-dimensional collision",
+    "Two-dimensional collision",
+    "Oblique collision",
+    "Impulsive and non-impulsive forces"
+  ],
+  "Rotational Motion": [
+    "Moment of inertia",
+    "Moment of inertia of discrete systems",
+    "Moment of inertia of continuous bodies",
+    "Parallel axis theorem",
+    "Perpendicular axis theorem",
+    "Torque",
+    "Point of application of force",
+    "Torque about a point and axis",
+    "Equilibrium of rigid body",
+    "Toppling",
+    "Rotation of rigid body about fixed axis"
+  ],
+  "Gravitation": [
+    "Newton’s law of gravitation",
+    "Gravitational field",
+    "Gravitational potential",
+    "Field and potential due to discrete bodies",
+    "Field and potential due to continuous bodies",
+    "Acceleration due to gravity",
+    "Variation of acceleration due to gravity"
+  ],
+  "Mechanical Properties of Solids": [
+    "Stress",
+    "Strain",
+    "Hooke’s law",
+    "Stress–strain curve",
+    "Elasticity",
+    "Elastic moduli"
+  ],
+  "Mechanical Properties of Fluids": [
+    "Pressure in liquids",
+    "Variation of pressure in liquids",
+    "Pressure in accelerating liquids",
+    "Pascal’s law",
+    "Archimedes’ principle",
+    "Streamline flow",
+    "Bernoulli’s theorem",
+    "Velocity of efflux",
+    "Viscosity"
+  ],
+  "Thermal Properties of Matter": [
+    "Thermometry",
+    "Calorimetry",
+    "Thermal expansion",
+    "Heat transfer by conduction"
+  ],
+  "Kinetic Theory of Gases": [
+    "Ideal gas",
+    "Assumptions of kinetic theory",
+    "Velocity distribution of gas molecules",
+    "Pressure exerted by gas",
+    "Kinetic energy of gas",
+    "Gas laws",
+    "Degree of freedom"
+  ],
+  "Thermodynamics": [
+    "Thermodynamic system",
+    "Reversible process",
+    "Irreversible process",
+    "First law of thermodynamics",
+    "Second law of thermodynamics"
+  ],
+  "Oscillations": [
+    "Simple harmonic motion (linear)",
+    "Energy in SHM",
+    "Series and parallel combination of springs",
+    "Angular SHM"
+  ],
+  "Waves": [
+    "Travelling waves",
+    "Wave function",
+    "Superposition",
+    "Interference"
+  ],
+  "Errors and Measurements": ["Vernier caliper"]
+}

@@ -1,23 +1,13 @@
-version: '3.8'
-
 services:
-  app:
-    build:
-      context: .
-      dockerfile: Dockerfile
+  topic-planner:
     container_name: topic-planner
+    restart: always
+    image: ghcr.io/vmss2009/topic-planner:v1
     ports:
-      - "3000:3000"
-    environment:
-      - NODE_ENV=production
-      - NEXT_TELEMETRY_DISABLED=1
-    volumes:
-      # Persist SQLite database
-      - ./data:/app/data
-    restart: unless-stopped
-    healthcheck:
-      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:3000"]
-      interval: 30s
-      timeout: 10s
-      retries: 3
-      start_period: 40s
+      - "3005:3000"
+    networks:
+      - hamaralabs-network
+
+networks:
+  hamaralabs-network:
+    external: true
